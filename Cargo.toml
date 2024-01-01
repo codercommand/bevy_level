@@ -2,7 +2,7 @@
 name = "bevy_level"
 version = "0.0.1"
 edition = "2021"
-authors = ["Bevy Contributors <bevyengine@gmail.com>", "Carter Anderson <mcanders1@gmail.com>"]
+authors = ["codercommand <codercommand@gmail.com>"]
 homepage = "https://bevyengine.org"
 repository = "https://github.com/codercommand/bevy_level"
 description = "Reserved crate name for a level system I'm planning on making an RFC for in the Bevy Engine project"
